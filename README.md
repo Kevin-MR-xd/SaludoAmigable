@@ -1,0 +1,2 @@
+# SaludoAmigable
+Welcome stranger
